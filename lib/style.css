@@ -1,0 +1,19 @@
+th{
+    background-color: aliceblue;        
+}
+
+td, .firstnum {
+    background-color: rgba(226, 226, 226, 0.758);
+}
+
+.seriesname {
+    color: rgb(24, 103, 200);
+}
+
+.card {
+    transition: opacity 0.8s ease-in-out;
+}
+
+.clickable-element:hover {
+    cursor: pointer;
+  }
